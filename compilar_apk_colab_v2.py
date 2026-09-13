@@ -1,7 +1,3 @@
-# ==============================================================================
-# SCRIPT CORRIGIDO E ATUALIZADO PARA GERAR O APK NO GOOGLE COLAB
-# Copie e cole este código em uma célula do Google Colab e execute (Ctrl + F9)
-# ==============================================================================
 
 import os
 import sys
